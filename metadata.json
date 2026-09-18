@@ -1,0 +1,6 @@
+{
+  "name": "A.F Elite Shoes",
+  "description": "Modern UK footwear retailer in Camberwell, London offering quality school shoes, everyday footwear, boots, and family styles with friendly service and exceptional value.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
